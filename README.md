@@ -2,5 +2,5 @@
 exercise 1 - test
 
 #מתכון לעוגה
-[קישור](www.google.co.il)
+[קישור](http:www.google.co.il)
 
