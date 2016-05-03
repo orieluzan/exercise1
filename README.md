@@ -12,4 +12,4 @@ exercise 1 - test
 * asdf
 * 
 
-![תמונה](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/250px-Flag_of_Israel.svg.png)
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/250px-Flag_of_Israel.svg.png)
